@@ -160,18 +160,6 @@
           </array>
         </config-file>
 
-        <!-- Facebook SDK -->
-        <podspec>
-            <config>
-                <source url="https://cdn.cocoapods.org/"/>
-            </config>
-            <pods use-frameworks="true">
-                <pod name="FBSDKCoreKit" spec="5.15.0"/>
-                <pod name="FBSDKLoginKit" spec="5.15.0"/>
-                <pod name="FBSDKShareKit" spec="5.15.0"/>
-            </pods>
-        </podspec>
-
     </platform>
 
     <!-- browser -->
